@@ -31,7 +31,7 @@
 1. Update changes from the upstream
    - Teacher to fill in the lines below, commit and push the changes
 
-         Number of students present: 35
+         Number of students present: who knows
          Weather outside: dark, cannot see
    
    - Students pull the changes
